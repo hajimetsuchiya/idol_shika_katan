@@ -1,0 +1,1 @@
+# idol_shika_katan
