@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://hajimetsuchiya.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
 publishDir ="docs"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 [taxonomies]
 tag = "tags"
